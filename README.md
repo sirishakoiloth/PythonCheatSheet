@@ -4,7 +4,7 @@ A Cheat Sheet 📜 to **revise** Python syntax in **less time**. Particularly us
 
 > [Click here for similar Java Resource (not made by me)](https://drive.google.com/file/d/1ao4ZA28zzBttDkuS6MLQI52gDs_CJZEm/view) <br>
 > Get a PDF of this sheet at the end. <br>
-> Leave a ⭐ if you like the cheat sheet (contributions welcome!) <br>
+> Leave a ⭐ if you like the cheat sheet (contributions welcome!) <br> 
 
 # Table of Contents
 - [Basics](#basics)
